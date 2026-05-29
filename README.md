@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**ritakasesalu-ai/ritakasesalu-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tere! 👋 Mina olen Rita Kasesalu
+ 
+## 🎯 Andmeanalüütiku Karjääri Algus
+ 
+Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
+ 
+## 🛠️ Tehnoloogiad, mida õpin
+ 
+https://llzinozmlmlispovzjww.supabase.co
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+ 
+- **Andmebaasid:** PostgreSQL, Supabase
+- **Programmeerimiskeeled:** Python (pandas, plotly)
+- **Visualiseerimine:** Power BI, Streamlit
+- **Versioonihaldus:** Git, GitHub
+ 
+## 📂 Projektid
+ 
+- [**DACA Portfoolio**](https://github.com/ritakasesalu-ai/daca-portfolio) - 11-nädalane õppeprojektid
+ 
+## 📫 Kontakt
+ 
+- **Email:** rita.kasesalu@gmail.com
+- **LinkedIn:** www.linkedin.com/in/rita-kasesalu-0770ba168
+ 
+---
+ 
+_"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard_
