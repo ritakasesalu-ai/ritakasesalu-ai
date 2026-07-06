@@ -21,6 +21,7 @@ https://llzinozmlmlispovzjww.supabase.co
   
 - [SQL_agregatsioon](https://github.com/ritakasesalu-ai/daca-portfolio/tree/d7c5b3dd2ab833bcfca37b8cbaabf55469a98578/portfolio/week-4)
 - [UrbanStyle_dashboard](https://github.com/ritakasesalu-ai/daca-portfolio/tree/d7c5b3dd2ab833bcfca37b8cbaabf55469a98578/portfolio/week-6)
+- [Python_pipeline](https://github.com/ritakasesalu-ai/daca-portfolio/tree/d7c5b3dd2ab833bcfca37b8cbaabf55469a98578/portfolio/week-8)
  
 
  
