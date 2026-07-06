@@ -16,8 +16,10 @@ https://llzinozmlmlispovzjww.supabase.co
 - **Versioonihaldus:** Git, GitHub
  
 ## 📂 Projektid
+
+- [SQL_agregatsioon](https://github.com/ritakasesalu-ai/daca-portfolio/tree/d7c5b3dd2ab833bcfca37b8cbaabf55469a98578/portfolio/week-4)
  
-- [**DACA Portfoolio**](https://github.com/ritakasesalu-ai/daca-portfolio) - 11-nädalane õppeprojektid
+- [**DACA Portfoolio**](https://github.com/ritakasesalu-ai/daca-portfolio) 11-nädalane õppeprojektid
  
 ## 📫 Kontakt
  
