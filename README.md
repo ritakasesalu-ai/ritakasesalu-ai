@@ -28,7 +28,7 @@ https://llzinozmlmlispovzjww.supabase.co
 ## 📫 Kontakt
  
 - **Email:** rita.kasesalu@gmail.com
-- **LinkedIn:** [LinkedIN](www.linkedin.com/in/rita-kasesalu-0770ba168)
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/rita-kasesalu-0770ba168)
  
 ---
  
