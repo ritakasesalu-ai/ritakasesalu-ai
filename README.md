@@ -29,7 +29,7 @@
 ## 📫 Kontakt
  
 - **Email:** rita.kasesalu@gmail.com
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/rita-kasesalu)
+- **LinkedIn:** [LinkedIn](https://linkedin.com/in/rita-kasesalu/)
  
 ---
  
